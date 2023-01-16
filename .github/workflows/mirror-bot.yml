@@ -8,8 +8,8 @@ on:
    
 env:
   # Change these values if you have forked it for your own works
-  GitHubMail: "mirrorbot81@gmail.com"
-  GitHubName: "mirrorbot81" 
+  GitHubMail: "brucewaynedc69@protonmail.com"
+  GitHubName: "brucewaynedc69" 
   Branch: "heroku"
 
 jobs:
